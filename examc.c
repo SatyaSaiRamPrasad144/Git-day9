@@ -7,3 +7,6 @@
 
 int age = 25; 
 printf("You are %d years old.\n", age);
+
+int age = 50; 
+printf("You are %d years old.\n", age);
